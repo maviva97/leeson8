@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    padding: 16 px;
+    border-bottom: 1px solid gray;
+    background-color: white;
+    color: gray;
+    font-family: "Roboto", cursive;
+
+}
+
+.sign {
+    font-size: 32px;
+    font-weight: 500px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 35px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
